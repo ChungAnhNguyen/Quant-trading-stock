@@ -11,7 +11,7 @@ This notebook contains the basic concepts and Python implementation of QT.
 
 
 
-## Stock Bollinger Band Analysis
+## Using strategy of Stock Bollinger Band Analysis
 
 ## Chart basic information
 - **Subject Asset**: Tesla (TSLA)
